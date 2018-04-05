@@ -1,0 +1,2 @@
+1,YYY,2001-07-02,1.0009009,-1071607778,0,Row yielded no match during lookup.
+
